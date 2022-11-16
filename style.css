@@ -18,6 +18,14 @@ tr, td {
     height:10%;
 }
 
+ td:hover {
+    background-color: grey;
+}
+
+td:active {
+    background-color: green;
+}
+
 div {
     padding-bottom: 20px;
     margin-left: auto;
